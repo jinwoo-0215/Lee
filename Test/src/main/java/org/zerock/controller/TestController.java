@@ -4,5 +4,6 @@ public class TestController {
 
 	String st;
 	String str;
+	String stri;
 	
 }
